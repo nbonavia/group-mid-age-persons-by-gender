@@ -1,5 +1,5 @@
 {
-  "name": "hotjar-test",
+  "name": "group-mid-age-persons-by-gender",
   "version": "1.0.0",
   "description": "Write a JavaScript method receiving an array of objects containing name+age+gender, returning everyone between 30 and 40 years old grouped by gender. Keep it simple but reusable.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "hotjar"
+    "group-mid-age-persons-by-gender"
   ],
   "author": "Neville Bonavia",
   "license": "ISC",
