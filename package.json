@@ -1,0 +1,19 @@
+{
+  "name": "hotjar-test",
+  "version": "1.0.0",
+  "description": "Write a JavaScript method receiving an array of objects containing name+age+gender, returning everyone between 30 and 40 years old grouped by gender. Keep it simple but reusable.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hotjar"
+  ],
+  "author": "Neville Bonavia",
+  "license": "ISC",
+  "dependencies": {
+    "stream-array": "^1.1.2",
+    "stream-filter": "^2.1.0",
+    "stream-reduce": "^1.0.3"
+  }
+}
